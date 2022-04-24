@@ -1,0 +1,18 @@
+.root{
+-fx-background-color: #282c38;
+-fx-font: 20 impact;
+}
+
+.button{
+-fx-background-color: #c5adcc;
+-fx-text-fill: white;
+-fx-background-radius: 7;
+-fx-pref-width: 60px;
+-fx-pref-height: 60px;
+}
+
+.text-field {
+-fx-background-color: #688c79;
+-fx-pref-width: 50px;
+-fx-pref-height: 50px;
+}
